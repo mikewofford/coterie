@@ -1,0 +1,71 @@
+<ClaimsData xmlns="SkillsTest">
+	<ReportingPeriod>2021-09-30</ReportingPeriod>
+	<Claims>
+		<Claim xmlns="SkillsTest">
+			<PolicyNumber>P1234</PolicyNumber>
+			<ClaimNumber>C1234</ClaimNumber>
+			<LineOfBusiness>Business Owner Policy</LineOfBusiness>
+			<LineOfBusinessCode>BOP</LineOfBusinessCode>
+			<AccidentState>CA</AccidentState>
+			<ClaimantFullName>Tony Stark</ClaimantFullName>
+			<ClaimStatus>Open</ClaimStatus>
+			<DateOfLoss>44416</DateOfLoss>
+			<DateReported>44419</DateReported>
+			<OpenDate>44419</OpenDate>
+			<TypeOfLoss>Flame, Fire</TypeOfLoss>
+			<LossDescription>Fire was started by vandals in Tony's car garage resulting in damaged equipment. No one was home at the time of loss.</LossDescription>
+			<TotalRecovery>0</TotalRecovery>
+			<DeductibleRecovery>0</DeductibleRecovery>
+			<IndemnityPaid>13819.41</IndemnityPaid>
+			<IndemnityReserve>8000</IndemnityReserve>
+			<MedicalPaid>0</MedicalPaid>
+			<MedicalReserve>0</MedicalReserve>
+			<ExpensePaid>0.0</ExpensePaid>
+			<ExpenseReserve>1000</ExpenseReserve>
+		</Claim>
+		<Claim xmlns="SkillsTest">
+			<PolicyNumber>P5678</PolicyNumber>
+			<ClaimNumber>C5678</ClaimNumber>
+			<LineOfBusiness>Business Owner Policy</LineOfBusiness>
+			<LineOfBusinessCode>BOP</LineOfBusinessCode>
+			<AccidentState>MN</AccidentState>
+			<ClaimantFullName>Thor Odinson</ClaimantFullName>
+			<ClaimStatus>Closed</ClaimStatus>
+			<DateOfLoss>44026</DateOfLoss>
+			<DateReported>44035</DateReported>
+			<OpenDate>44035</OpenDate>
+			<TypeOfLoss>Contents</TypeOfLoss>
+			<LossDescription>After Loki stole the Tesseract, the freezer stopped working resulting in damaged goods.</LossDescription>
+			<TotalRecovery>0</TotalRecovery>
+			<DeductibleRecovery>0</DeductibleRecovery>
+			<IndemnityPaid>8831.39</IndemnityPaid>
+			<IndemnityReserve>0</IndemnityReserve>
+			<MedicalPaid>0</MedicalPaid>
+			<MedicalReserve>0</MedicalReserve>
+			<ExpensePaid>0.0</ExpensePaid>
+			<ExpenseReserve>0</ExpenseReserve>
+		</Claim>
+		<Claim xmlns="SkillsTest">
+			<PolicyNumber>P9101</PolicyNumber>
+			<ClaimNumber>C9101</ClaimNumber>
+			<LineOfBusiness>Business Owner Policy</LineOfBusiness>
+			<LineOfBusinessCode>BOP</LineOfBusinessCode>
+			<AccidentState>WI</AccidentState>
+			<ClaimantFullName>Steve Rogers</ClaimantFullName>
+			<ClaimStatus>Open</ClaimStatus>
+			<DateOfLoss>43978</DateOfLoss>
+			<DateReported>44036</DateReported>
+			<OpenDate>44036</OpenDate>
+			<TypeOfLoss>Misc-Equipment Breakdown or Failure</TypeOfLoss>
+			<LossDescription>Contractor was repairing a concrete slab at Steve's old apartment and hit a rusty water line.</LossDescription>
+			<TotalRecovery>0</TotalRecovery>
+			<DeductibleRecovery>0</DeductibleRecovery>
+			<IndemnityPaid>8753.67</IndemnityPaid>
+			<IndemnityReserve>3000</IndemnityReserve>
+			<MedicalPaid>0</MedicalPaid>
+			<MedicalReserve>0</MedicalReserve>
+			<ExpensePaid>1729.41</ExpensePaid>
+			<ExpenseReserve>0</ExpenseReserve>
+		</Claim>
+	</Claims>
+</ClaimsData>
